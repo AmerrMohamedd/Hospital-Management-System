@@ -1,0 +1,1 @@
+The Hospital Management System can help any hospital or healthcare facility  by boosting productivity, lowering paperwork, and enhancing patient care. Create a C++ program using three singly  Linked Lists.
